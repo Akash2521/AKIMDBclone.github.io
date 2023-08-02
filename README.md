@@ -1,6 +1,6 @@
 # imdb-clone
 
-link - https://akashpadampalle.github.io/imdb-clone/
+link - https://akash2521.github.io/AKIMDBclone.github.io/
 
 in this project i tried to replecate the features of imdb
 which is for front end skill test in coding ninjas
